@@ -1,0 +1,14 @@
+/* styles.css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.silence-mark {
+    font-style: italic;
+}
+
+.silence-clerk {
+    font-weight: bold;
+    font-variant: small-caps;
+}
